@@ -19,6 +19,8 @@ The analysis was performed using Python for data cleaning and feature engineerin
 
 The goal of this project is to demonstrate real-world data analytics skills, including data preparation, KPI design, visualization, and insight communication.
 
+
+
 🧰 Tools & Technologies
 
 Python (Pandas, NumPy)
@@ -34,6 +36,8 @@ KPI Design & Interactive Dashboards
 Business Insight Communication
 
 
+
+
 📈 Key Business Metrics
 
 Total Revenue: £8.89M
@@ -43,6 +47,8 @@ Total Orders: 18,532
 Total Customers: 4,338
 
 Average Order Value (AOV): £479.56
+
+
 
 
 🔍 Key Insights
@@ -56,6 +62,8 @@ A small group of top-performing products drives a disproportionate share of reve
 High-value repeat customers contribute significantly to overall sales.
 
 International markets such as the Netherlands, Ireland, and Germany present growth opportunities outside the UK.
+
+
 
 
 📊 Dashboard Overview
